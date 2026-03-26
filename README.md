@@ -1,6 +1,6 @@
 # 🎤 Emotion Recognition from Speech
 
-This project focuses on recognizing human emotions from speech audio using deep learning and speech signal processing techniques. The system classifies emotions like happy, sad, angry, neutral, etc., from audio files using MFCC features and neural networks.
+This project as 2 code alpha focuses on recognizing human emotions from speech audio using deep learning and speech signal processing techniques. The system classifies emotions like happy, sad, angry, neutral, etc., from audio files using MFCC features and neural networks.
 
 
 ## 📌 Objective
